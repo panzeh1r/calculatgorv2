@@ -18,7 +18,7 @@ func main() {
 	fmt.Scanln(&sayi1)
 	fmt.Scanln(&sayi2)
 
-	// Ardından şartları switch kullanarak şartları belirtiyoruz.
+	// Ardından switch kullanarak şartları belirtiyoruz.
 
 	switch {
 	case islem == 1:
